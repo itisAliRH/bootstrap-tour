@@ -9,6 +9,17 @@ Quick and easy way to build your product tours with Bootstrap Popovers.
 
 *Compatible with Bootstrap >= 2.3.0*
 
+## Galaxy Fork
+
+We've had Galaxy's version of this pinned as:
+
+```
+bootstrap-tour": "https://github.com/sorich87/bootstrap-tour.git#65a49742e131d19f41e3f5bf63588995f7b8a9e0"
+```
+
+Which is problematic during installation and build of the client; this fork is
+simply to republish under the @galaxyproject npm namespace.
+
 ## Demo and Documentation
 [http://bootstraptour.com](http://bootstraptour.com)
 
