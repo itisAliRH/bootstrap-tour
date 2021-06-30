@@ -1,7 +1,7 @@
 {
   "name": "@galaxyproject/bootstrap-tour",
-  "description": "Quick and easy way to build your product tours with Bootstrap Popovers.",
-  "version": "0.12.0",
+  "description": "Quick and easy way to build your product tours with Bootstrap Popovers - a fork for compatibility and installation in Galaxy.",
+  "version": "0.12.1",
   "keywords": [
     "tour",
     "bootstrap",
@@ -28,10 +28,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sorich87/bootstrap-tour.git"
+    "url": "git+https://github.com/dannon/bootstrap-tour.git"
   },
   "bugs": {
-    "url": "https://github.com/sorich87/bootstrap-tour/issues"
+    "url": "https://github.com/dannon/bootstrap-tour/issues"
   },
   "licenses": [
     {
