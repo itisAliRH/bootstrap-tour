@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-tour",
+  "name": "@galaxyproject/bootstrap-tour",
   "description": "Quick and easy way to build your product tours with Bootstrap Popovers.",
   "version": "0.12.0",
   "keywords": [
