@@ -491,7 +491,7 @@
         step.element = 'body'
         step.placement = 'top'
 
-      $element = $ step.element
+      $element = $ step.element + ':first'
       $element.addClass "tour-#{@_options.name}-element tour-#{@_options.name}-#{i}-element"
 
       $.extend options, step.options if step.options
